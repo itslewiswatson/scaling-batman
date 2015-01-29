@@ -24,5 +24,17 @@ ul {
 .login li {
     display: inline;
     padding: 7px;
-    margin-right: 4px;
+    margin-right: 10px;
+}
+
+.header {
+	background-color: #FFFFFF;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.center {
+	text-align: center;
 }

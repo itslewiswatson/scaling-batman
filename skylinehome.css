@@ -7,3 +7,12 @@ p {
 	font-family: Segoe UI;
 	text-align: center;
 }
+
+/*Navbar Stuff*/
+.navbar {
+	text-align: right;
+}
+
+.navbar ul {
+	list-style-type: none; /*Removes Dot Points from the list*/
+}

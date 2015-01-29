@@ -9,10 +9,20 @@ p {
 }
 
 /*Navbar Stuff*/
-.navbar {
-	text-align: right;
+.navbar li {
+    display: inline;
+    padding: 7px;
+    margin-right: 4px;
 }
 
-.navbar ul {
-	list-style-type: none; /*Removes Dot Points from the list*/
+/*Removes Dot Points from the list*/
+ul {
+	list-style-type: none;
+}
+
+/*Login/Sign Up Stuff*/
+.login li {
+    display: inline;
+    padding: 7px;
+    margin-right: 4px;
 }
